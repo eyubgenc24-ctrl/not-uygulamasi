@@ -8,4 +8,5 @@ git status: Hangi dosyaların değiştiğini, hazırlandığını gösterir.
 git add <dosya> / git add .: Değişiklikleri commit için hazırlık alanına (staging) ekler.
 git commit -m "mesaj": Hazırlanan değişiklikleri bir kayıt olarak saklar.
 git diff: Henüz eklenmemiş değişikliklerin farkını gösterir.
-git log: Commit geçmişini listeler (--oneline ile kısa görünüm)..
+git log: Commit geçmişini listeler (--oneline ile kısa görünüm)..Ek not
+Ek not
