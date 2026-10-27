@@ -2,4 +2,4 @@ git commit -m ""  commit atmaya yarar
 git log --oneline atılmış commitleri gösterir
 pwd bulunduğun klasörü gösterir
 cd bulunduğun klasörü değiştirir
-git status stages durumunu gösterir.
+git status stages durumunu gösterir.git add - dosyayı staging'e alır
